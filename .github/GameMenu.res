@@ -1,7 +1,4 @@
-# This is a basic workflow to help you get started with Actions
 
-script
-        run: echo Hello, world!
 ///////////GAMEMENU FROM HL2 UPDATE ANDROID BY I#OLEG 05.05.22 STRUCTURE
 "GameMenu"
 {
